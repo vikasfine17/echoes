@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Local database and personal memories
+echoes.db
+*.db
+
+# Environment files
+.env
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
